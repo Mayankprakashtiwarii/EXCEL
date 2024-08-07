@@ -7,10 +7,10 @@ Features Interactive Charts: Explore sales data with dynamic and interactive cha
 
 ** Key Bussiness Problem highlighted in the dashboard**
 
-What is the sales of each item over the years from 2014 to 2017 ?
-How much maximum sales we reached in each year ?
-what is the sales we provide in the different region of the country?
-what is the profit gained in each year and cummulative of all years?
-What is the total number of customer we hold?
-List of the top 5 frequent customers ?
-what is the monthly sales of each item in every year?
+1) What is the sales of each item over the years from 2014 to 2017 ?
+2) How much maximum sales we reached in each year ?
+3) what is the sales we provide in the different region of the country?
+4) what is the profit gained in each year and cummulative of all years?
+5) What is the total number of customer we hold?
+6) List of the top 5 frequent customers ?
+7) what is the monthly sales of each item in every year?
